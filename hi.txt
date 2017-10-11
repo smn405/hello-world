@@ -1,1 +1,2 @@
 Hi there Santi!
+You are learning git
