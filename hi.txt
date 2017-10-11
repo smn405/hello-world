@@ -1,6 +1,8 @@
-﻿Hi there Santi!
+Hi there Santi!
 You are learning git
 
 some change…
 
 we are almost done
+
+more change
